@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dziedziczenie_Zad3_Dom/1.0.0": {
+        "runtime": {
+          "Dziedziczenie_Zad3_Dom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dziedziczenie_Zad3_Dom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

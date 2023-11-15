@@ -1,0 +1,14 @@
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\bin\Debug\net6.0\Dziedziczenie_Zad3_Dom.exe
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\bin\Debug\net6.0\Dziedziczenie_Zad3_Dom.deps.json
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\bin\Debug\net6.0\Dziedziczenie_Zad3_Dom.runtimeconfig.json
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\bin\Debug\net6.0\Dziedziczenie_Zad3_Dom.dll
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\bin\Debug\net6.0\Dziedziczenie_Zad3_Dom.pdb
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\obj\Debug\net6.0\Dziedziczenie_Zad3_Dom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\obj\Debug\net6.0\Dziedziczenie_Zad3_Dom.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\obj\Debug\net6.0\Dziedziczenie_Zad3_Dom.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\obj\Debug\net6.0\Dziedziczenie_Zad3_Dom.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\obj\Debug\net6.0\Dziedziczenie_Zad3_Dom.dll
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\obj\Debug\net6.0\refint\Dziedziczenie_Zad3_Dom.dll
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\obj\Debug\net6.0\Dziedziczenie_Zad3_Dom.pdb
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\obj\Debug\net6.0\Dziedziczenie_Zad3_Dom.genruntimeconfig.cache
+C:\Users\dawid\source\repos\Dziedziczenie_Zad3_Dom\obj\Debug\net6.0\ref\Dziedziczenie_Zad3_Dom.dll
