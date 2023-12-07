@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Insterfejsy\bin\Debug\net6.0\Insterfejsy.exe
+C:\Users\Student\source\repos\Insterfejsy\bin\Debug\net6.0\Insterfejsy.deps.json
+C:\Users\Student\source\repos\Insterfejsy\bin\Debug\net6.0\Insterfejsy.runtimeconfig.json
+C:\Users\Student\source\repos\Insterfejsy\bin\Debug\net6.0\Insterfejsy.dll
+C:\Users\Student\source\repos\Insterfejsy\bin\Debug\net6.0\Insterfejsy.pdb
+C:\Users\Student\source\repos\Insterfejsy\obj\Debug\net6.0\Insterfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Insterfejsy\obj\Debug\net6.0\Insterfejsy.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Insterfejsy\obj\Debug\net6.0\Insterfejsy.AssemblyInfo.cs
+C:\Users\Student\source\repos\Insterfejsy\obj\Debug\net6.0\Insterfejsy.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Insterfejsy\obj\Debug\net6.0\Insterfejsy.dll
+C:\Users\Student\source\repos\Insterfejsy\obj\Debug\net6.0\refint\Insterfejsy.dll
+C:\Users\Student\source\repos\Insterfejsy\obj\Debug\net6.0\Insterfejsy.pdb
+C:\Users\Student\source\repos\Insterfejsy\obj\Debug\net6.0\Insterfejsy.genruntimeconfig.cache
+C:\Users\Student\source\repos\Insterfejsy\obj\Debug\net6.0\ref\Insterfejsy.dll
