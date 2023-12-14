@@ -1,0 +1,4 @@
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net6.0\Wyjątki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net6.0\Wyjątki.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net6.0\Wyjątki.AssemblyInfo.cs
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net6.0\Wyjątki.csproj.CoreCompileInputs.cache

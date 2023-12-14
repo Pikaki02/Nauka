@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.exe
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.deps.json
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.runtimeconfig.json
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.dll
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.pdb
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.AssemblyInfo.cs
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.dll
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\refint\Delegaty_Zdarzenia_Interfejsy.dll
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.pdb
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Delegaty_Zdarzenia_Interfejsy.genruntimeconfig.cache
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\ref\Delegaty_Zdarzenia_Interfejsy.dll

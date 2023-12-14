@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Wyjątki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Wyjątki.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Wyjątki.AssemblyInfo.cs
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Wyjątki.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Wyjątki.exe
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Wyjątki.deps.json
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Wyjątki.runtimeconfig.json
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Wyjątki.dll
+C:\Users\Student\source\repos\Wyjątki\bin\Debug\net7.0\Wyjątki.pdb
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Wyjątki.dll
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\refint\Wyjątki.dll
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Wyjątki.pdb
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\Wyjątki.genruntimeconfig.cache
+C:\Users\Student\source\repos\Wyjątki\obj\Debug\net7.0\ref\Wyjątki.dll
