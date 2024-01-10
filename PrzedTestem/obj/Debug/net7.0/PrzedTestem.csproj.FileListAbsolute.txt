@@ -1,0 +1,14 @@
+C:\Users\dawid\source\repos\PrzedTestem\bin\Debug\net7.0\PrzedTestem.exe
+C:\Users\dawid\source\repos\PrzedTestem\bin\Debug\net7.0\PrzedTestem.deps.json
+C:\Users\dawid\source\repos\PrzedTestem\bin\Debug\net7.0\PrzedTestem.runtimeconfig.json
+C:\Users\dawid\source\repos\PrzedTestem\bin\Debug\net7.0\PrzedTestem.dll
+C:\Users\dawid\source\repos\PrzedTestem\bin\Debug\net7.0\PrzedTestem.pdb
+C:\Users\dawid\source\repos\PrzedTestem\obj\Debug\net7.0\PrzedTestem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\PrzedTestem\obj\Debug\net7.0\PrzedTestem.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\PrzedTestem\obj\Debug\net7.0\PrzedTestem.AssemblyInfo.cs
+C:\Users\dawid\source\repos\PrzedTestem\obj\Debug\net7.0\PrzedTestem.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\PrzedTestem\obj\Debug\net7.0\PrzedTestem.dll
+C:\Users\dawid\source\repos\PrzedTestem\obj\Debug\net7.0\refint\PrzedTestem.dll
+C:\Users\dawid\source\repos\PrzedTestem\obj\Debug\net7.0\PrzedTestem.pdb
+C:\Users\dawid\source\repos\PrzedTestem\obj\Debug\net7.0\PrzedTestem.genruntimeconfig.cache
+C:\Users\dawid\source\repos\PrzedTestem\obj\Debug\net7.0\ref\PrzedTestem.dll
